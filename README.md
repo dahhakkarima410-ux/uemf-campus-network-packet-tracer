@@ -1,3 +1,5 @@
+<img width="1912" height="663" alt="image" src="https://github.com/user-attachments/assets/b49822ec-b754-48ca-87a4-508281202aea" />
+
 # UEMF Campus Network Simulation – Cisco Packet Tracer
 
 ## Project Overview
